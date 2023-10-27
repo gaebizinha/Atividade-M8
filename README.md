@@ -36,3 +36,6 @@ Por fim , a análise dos dados é realizada usando o AWS QuickSight, uma ferrame
 ## Segurança
 
 A segurança básica da arquitetura do cubo é feita pela Virtual Private Cloud (VPC), garantindo segurança e isolamento dos recursos.
+
+## Tabela 
+![image](https://github.com/gaebizinha/Atividade-M8/blob/main/tabela.png)
